@@ -108,15 +108,23 @@ python expense_tracker.py
 📝 Sample Output
 
 -----Expense Tracker-----
+
 1: Add Expense
+
 2: Show All Expenses
+
 3: Show Total Spent
+
 4: Exit
 
 Choose an option (1-4): 1
+
 Enter Amount: 50
+
 Enter Category: Food
+
 Enter Note: Pizza
+
 Expense saved!
 
 
