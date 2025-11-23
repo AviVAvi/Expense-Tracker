@@ -78,9 +78,13 @@ datetime module
 📂 Project Structure
 
 expense-tracker/
+
 │
+
 ├── expense_tracker.py      # main program
+
 ├── expenses.txt            # created automatically when expenses are added
+
 └── README.md               # project documentation
 
 
