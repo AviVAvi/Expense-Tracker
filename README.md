@@ -17,7 +17,9 @@ Menu-based application flow
 
 Perfect as an early portfolio project!
 
+
 🚀 Features
+
 ✅ Add New Expense
 
 Each expense includes:
@@ -59,6 +61,7 @@ Each line looks like:
 
 50.0;Food;Pizza;2025-02-23
 
+
 🛠️ Tech Used
 
 Python 3
@@ -71,12 +74,15 @@ Error Handling
 
 datetime module
 
+
 📂 Project Structure
+
 expense-tracker/
 │
 ├── expense_tracker.py      # main program
 ├── expenses.txt            # created automatically when expenses are added
 └── README.md               # project documentation
+
 
 ▶️ How to Run
 
@@ -94,7 +100,9 @@ Run the Python file:
 
 python expense_tracker.py
 
+
 📝 Sample Output
+
 -----Expense Tracker-----
 1: Add Expense
 2: Show All Expenses
@@ -106,6 +114,7 @@ Enter Amount: 50
 Enter Category: Food
 Enter Note: Pizza
 Expense saved!
+
 
 ⭐ Future Upgrades (Planned)
 
@@ -130,4 +139,4 @@ These upgrades will happen later as I advance in Python.
 
 👤 Author
 
-Avi (Asmit)
+Asmit
